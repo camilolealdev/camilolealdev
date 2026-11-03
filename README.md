@@ -38,6 +38,41 @@ I'm a hands-on developer and lifelong self-learner. Outside of code, I'm a **cap
 | AI-Powered Applications | CRM & API Integrations | Marketing Technology |
 | | Cloud & DevOps | Technical Operations |
 
+## 🚀 Featured projects
+
+| Project | Stack | Live |
+|---|---|---|
+| [**scrapingtool2**](https://github.com/camilolealdev/scrapingtool2) | TypeScript | [scrapingtool2.vercel.app](https://scrapingtool2.vercel.app) |
+| [**superduperskills**](https://github.com/camilolealdev/superduperskills) | Python | [superduperskills.vercel.app](https://superduperskills.vercel.app) |
+| [**calldom**](https://github.com/camilolealdev/calldom) | TypeScript | [calldom.vercel.app](https://calldom.vercel.app) |
+| [**inner26**](https://github.com/camilolealdev/inner26) | TypeScript | [inner26.vercel.app](https://inner26.vercel.app) |
+| [**Jrpos**](https://github.com/camilolealdev/Jrpos) | JavaScript | [jrpos1.vercel.app](https://jrpos1.vercel.app) |
+| [**MEO**](https://github.com/camilolealdev/MEO) | MDX | [meo-steel.vercel.app](https://meo-steel.vercel.app) |
+| [**quiprima3**](https://github.com/camilolealdev/quiprima3) | HTML | [quiprima3.vercel.app](https://quiprima3.vercel.app) |
+| [**juanchospizza**](https://github.com/camilolealdev/juanchospizza) · [**timewise**](https://github.com/camilolealdev/timewise) | TypeScript | |
+
+## 🤖 AI & automation toolkit
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
+</div>
+
+## 🤝 How I can help
+
+- **Automate** repetitive business processes and connect your tools through APIs and CRMs
+- **Build** web applications, dashboards and landing pages, from idea to deployed product
+- **Add AI** to your workflows: conversational assistants, content and data pipelines
+- **Measure** what matters with KPI dashboards and marketing technology
+
 ## 🛠️ Tech stack
 
 <div align="center">
